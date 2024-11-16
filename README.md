@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Olá. Eu sou o Augusto.
 
-<!--
-**augustbiza/augustbiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Atualmente estou me profissionalizando em desenvolvimento de software pela PUC Minas.  
+<!--📖 Elaborei repositórios para auxiliar na formação de alunos em Ciência da Computação e Engenharia de Software. (TEMPORARIAMENTE PRIVADOS)  -->
+  
+<div>
+  <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustbiza&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+  />
+</div>
