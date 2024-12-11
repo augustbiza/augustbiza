@@ -1,9 +1,14 @@
-<!-- última atualização: 12/2024 -->
 # 👋 Olá. Eu sou o Augusto.
 
-🎓 Atualmente estou me profissionalizando em desenvolvimento de software pela PUC Minas.  
-<!--📖 Elaborei repositórios para auxiliar na formação de alunos em Ciência da Computação e Engenharia de Software.-->
-  
+🎓 Atualmente estou me profissionalizando em Desenvolvimento de Software pela Pontifícia Universidade Católica de Minas Gerais (PUC-MG). 
+<!--
+📁Aqui você encontrará repositórios sobre:
+- 📲Cursos extracurriculares em tecnologia
+- 📖Disciplinas de ciências exatas e informática
+- 🧮Maratonas de programação
+- 💡Projetos acadêmicos e pessoais
+-->
+📊Minhas estatísticas no GitHub
 <div>
   <img
         align="center"
