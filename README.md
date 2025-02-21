@@ -1,11 +1,11 @@
 # 👋 Olá. Eu sou o Augusto.
-<!-- att: jan/2025 -->
-🎓 Atualmente estou me profissionalizando em desenvolvimento de software pela Pontifícia Universidade Católica de Minas Gerais (PUC-MG). 
+<!-- att: fev/2025 -->
+🎓 Atualmente estou me profissionalizando em desenvolvimento e manutenção de software pela Pontifícia Universidade Católica de Minas Gerais (PUC-MG). 
 <!--
 📁Aqui você encontrará repositórios sobre:
-- 📲Cursos extracurriculares em tecnologia
 - 📖Disciplinas de ciências exatas e informática
-- 🧮Maratonas de programação
+- 📲Materiais de estudo sobre computação (livros, documentação, cursos)
+- 🧮Programação Competitiva
 - 💡Projetos pessoais
 -->
 📊Minhas estatísticas no GitHub
